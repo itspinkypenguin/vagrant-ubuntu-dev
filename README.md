@@ -29,7 +29,7 @@ git clone https://github.com/itspinkypenguin/vagrant-ubuntu-dev.git
 Enter the project directory:
 
 ```bash
-cd ubuntu-dev
+cd vagrant-ubuntu-dev
 ```
 
 Start and provision the virtual machine:
